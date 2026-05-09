@@ -1,10 +1,17 @@
 # AI Onboarding Workflow System
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-orange?style=for-the-badge)
+![Enterprise SaaS](https://img.shields.io/badge/Enterprise-SaaS-purple?style=for-the-badge)
+![Role-Based Access](https://img.shields.io/badge/RBAC-Role--Based%20Access-red?style=for-the-badge)
 
 An AI-assisted onboarding platform designed to streamline employee onboarding through workflow automation, role-based task management, and conversational guidance.
 
 The system supports onboarding workflows for employees, HR teams, managers, and platform administrators through a multi-dashboard architecture. Features include workflow orchestration, task dependency management, escalation handling, document management, and real-time onboarding progress tracking.
 
-This project was developed as part of my work at an early-stage startup focused on AI-powered enterprise onboarding systems. The repository presented here is a sanitized portfolio version intended for demonstration and educational purposes.
+This project is based on work completed during my internship at an early-stage startup focused on AI-powered enterprise onboarding systems. The repository presented here is a sanitized portfolio version intended for demonstration and educational purposes.
 
 ---
 
@@ -110,16 +117,25 @@ The platform supports multiple organizations with role-scoped permissions and ad
 
 # My Contributions
 
-My work on this project focused on onboarding workflow systems, QA/testing processes, workflow review, and platform usability improvements.
+My work on this project focused on onboarding workflow systems, workflow validation, product usability analysis, and operational workflow optimization across multi-role onboarding environments.
 
 Contributions included:
-- Reviewing onboarding workflow behavior across employee, HR, and admin flows
-- Identifying and documenting UX inconsistencies and workflow edge cases
-- Testing task dependency and onboarding progression logic
-- Reviewing escalation and workflow assignment flows
-- Participating in onboarding system design discussions
-- Reporting implementation issues and improvement suggestions through structured issue tracking
-- Supporting QA validation across onboarding and administrative interfaces
+
+- Reviewing onboarding workflows across employee, HR, stakeholder, and platform admin dashboards to identify friction points and workflow inefficiencies
+
+- Analyzing workflow edge cases, dependency conflicts, and onboarding bottlenecks across complex multi-step task sequences
+
+- Evaluating task dependency sequencing, workflow progression behavior, and escalation routing logic to improve onboarding coordination and completion visibility
+
+- Supporting workflow design discussions related to role-based onboarding experiences, task assignment structures, and operational scalability
+
+- Identifying UX inconsistencies and platform usability issues across onboarding and administrative interfaces
+
+- Reporting structured implementation findings, workflow issues, and product improvement recommendations through issue tracking systems
+
+- Assisting with QA validation and end-to-end workflow testing across onboarding, workflow management, and administrative operations
+
+- Contributing to system-level review processes focused on onboarding orchestration, workflow visibility, and cross-functional coordination
 
 ---
 
