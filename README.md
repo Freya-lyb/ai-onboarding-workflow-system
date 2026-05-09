@@ -73,16 +73,19 @@ The platform follows a multi-dashboard enterprise SaaS architecture built around
 ## High-Level Architecture
 
 ```text
-Employee Dashboard
-    ↓
-AI Chat Interface
-    ↓
-Workflow & Task Engine
-    ↓
-Supabase Backend
-    ↓
-Admin / HR / Stakeholder Dashboards
-
+                    ┌────────────────────┐
+                    │  Admin Dashboard   │
+                    └────────────────────┘
+                              │
+                              │
+┌────────────────────┐        │        ┌────────────────────┐
+│ Employee Dashboard │────Workflow────│ Stakeholder Portal │
+└────────────────────┘      Engine    └────────────────────┘
+                              │
+                              │
+                    ┌────────────────────┐
+                    │ Supabase Backend   │
+                    └────────────────────┘
 ```
 
 ## Key Architectural Concepts
@@ -100,6 +103,15 @@ Blocked onboarding steps can be escalated to relevant stakeholders or administra
 The platform supports multiple organizations with role-scoped permissions and administrative separation.
 
 ---
+# Key Focus Areas
+
+- Workflow orchestration and onboarding automation
+- Multi-role onboarding coordination
+- Role-based access systems (RBAC)
+- Workflow dependency management
+- Product usability and operational workflow analysis
+- Enterprise onboarding process optimization
+- Administrative workflow visibility and escalation handling
 
 # Technical Stack
 
