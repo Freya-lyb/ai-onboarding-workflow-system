@@ -173,6 +173,47 @@ The onboarding system was designed around several enterprise workflow concepts:
 /scripts        Utility and seed scripts
 /architecture   System design references
 ```
+---
+
+# Screenshots
+
+## Workflow Status Dashboard
+
+Tracks onboarding workflow progress across employees, workflows, task dependencies, and completion states.
+
+![Workflow Status Dashboard](assets/workflow-status-dashboard.png)
+
+---
+
+## Onboarding Analytics Dashboard
+
+Provides onboarding analytics, workflow completion visibility, bottleneck detection, and operational tracking across onboarding cohorts.
+
+![Onboarding Analytics Dashboard](assets/onboarding-analytics-dashboard.png)
+
+---
+
+## Employee Onboarding Chat Interface
+
+AI-assisted onboarding interface combining conversational guidance with real-time onboarding task coordination.
+
+![Employee Onboarding Chat](assets/employee-onboarding-chat.png)
+
+---
+
+## Document Management Panel
+
+Centralized onboarding document and knowledge management system for employee onboarding workflows.
+
+![Document Management Panel](assets/document-management-panel.png)
+
+---
+
+## Platform Admin Dashboard
+
+Administrative interface for platform-level onboarding operations, company management, and onboarding visibility.
+
+![Platform Admin Dashboard](assets/platform-admin-dashboard.png)
 
 ---
 
