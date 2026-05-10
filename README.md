@@ -119,10 +119,11 @@ The platform supports multiple organizations with role-scoped permissions and ad
 |---|---|
 | Frontend | Next.js, React, TypeScript |
 | Styling | Tailwind CSS, shadcn/ui |
-| Backend Services | Supabase |
-| Authentication | Supabase Auth |
-| Database | PostgreSQL (via Supabase) |
-| Real-Time Features | Supabase Realtime |
+| Backend / API Layer | Next.js API routes, server-side proxy routes |
+| Database & Auth | Supabase, PostgreSQL, Supabase Auth |
+| Real-Time Features | Supabase Realtime, Server-Sent Events (SSE) |
+| AI Integration | External AI agent backend, streaming chat interface |
+| Document & Form Handling | Supabase Storage, PDF/document workflows |
 | Deployment | Vercel |
 
 ---
