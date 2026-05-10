@@ -168,10 +168,10 @@ The onboarding system was designed around several enterprise workflow concepts:
 # Repository Structure
 
 ```text
-/docs           Product planning and workflow documentation
-/assets         Screenshots and architecture diagrams
-/scripts        Utility and seed scripts
-/architecture   System design references
+architecture/   -> system architecture diagrams and workflow design documentation
+docs/           -> QA testing methodology, onboarding edge cases, workflow validation, and product observations
+scripts/        -> sanitized workflow validation and onboarding simulation scripts
+assets/         -> onboarding dashboard and platform screenshots
 ```
 ---
 
